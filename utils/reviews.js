@@ -9,7 +9,7 @@ const reviews = {
         {
             clinet: 'Tom',
             via: 'Fiverr',
-            reivew: 'Afzal is a great product leader and developer. He helped me accelerate my development by collaborating with many engineers and helped me build my app. I look forward to working with Afzal again',
+            reivew: 'Gensi is a great product leader and developer. He helped me accelerate my development by collaborating with many engineers and helped me build my app. I look forward to working with Gensi again',
         },
         {
             clinet: 'Ahmed',
@@ -34,7 +34,7 @@ const reviews = {
         {
             clinet: 'Adrian',
             via: 'Fiverr',
-            reivew: 'Another top shelf delivery from Afzal. Happy again, as expected.',
+            reivew: 'Another top shelf delivery from Gensi. Happy again, as expected.',
         },
         {
             clinet: 'Adrian',

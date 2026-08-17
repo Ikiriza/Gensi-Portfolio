@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 
 const consoleMyName = () => {
     console.log(`
-  Designed and Developed By afzalimdad9.vercel.app
+  Designed and Developed By gensicollin.vercel.app
   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
   AAAAAAAAAAAA_AAAAAAAAAAAAAAA_____________AAAAAA

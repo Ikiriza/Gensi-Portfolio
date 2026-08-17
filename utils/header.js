@@ -18,7 +18,7 @@ const header = {
     },
     logo: {
         src: '/assets/profile.jpg',
-        alt: 'afzalimdad9'
+        alt: 'gensicollin'
     },
     handleIconClick: () => scrollTo('home'),
     handleItemSelect: (menu) => scrollTo(menu.id),

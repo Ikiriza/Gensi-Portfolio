@@ -1,10 +1,10 @@
 @import "./theme.scss";
 
-// $ai-afzal-imdad-svg-transition: cubic-bezier(0.84, -0.35, 0.26, 1.08);
-$ai-afzal-imdad-svg-transition: cubic-bezier(0.82, 0.01, 1, 0.11);
-// $ai-afzal-imdad-svg-transition: cubic-bezier(1,-0.01, 0, 1);
+// $ai-gensi-collin-svg-transition: cubic-bezier(0.84, -0.35, 0.26, 1.08);
+$ai-gensi-collin-svg-transition: cubic-bezier(0.82, 0.01, 1, 0.11);
+// $ai-gensi-collin-svg-transition: cubic-bezier(1,-0.01, 0, 1);
 
-.ai-afzal-imdad {
+.ai-gensi-collin {
   // background-color: orange;
   position: relative;
   width: 100%;
@@ -17,7 +17,7 @@ $ai-afzal-imdad-svg-transition: cubic-bezier(0.82, 0.01, 1, 0.11);
   transition: all 1000ms linear;
   // transform: scale(0);
 
-  .ai-afzal-imdad-parallax {
+  .ai-gensi-collin-parallax {
     // display: inline;
     transform: scale(0);
     // width: 100vw;
@@ -33,51 +33,51 @@ $ai-afzal-imdad-svg-transition: cubic-bezier(0.82, 0.01, 1, 0.11);
 
   .ai_svg_M {
     transform-origin: center top;
-    transition: all 100ms $ai-afzal-imdad-svg-transition;
+    transition: all 100ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_U {
     transform-origin: center bottom;
-    transition: all 200ms $ai-afzal-imdad-svg-transition;
+    transition: all 200ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_N {
     transform-origin: center top;
-    transition: all 300ms $ai-afzal-imdad-svg-transition;
+    transition: all 300ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_E1 {
     transform-origin: right top;
-    transition: all 400ms $ai-afzal-imdad-svg-transition;
+    transition: all 400ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_E2 {
     transform-origin: right top;
-    transition: all 500ms $ai-afzal-imdad-svg-transition;
+    transition: all 500ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_B {
     transform-origin: right top;
-    transition: all 600ms $ai-afzal-imdad-svg-transition;
+    transition: all 600ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_K1 {
     transform-origin: center bottom;
-    transition: all 1700ms $ai-afzal-imdad-svg-transition;
+    transition: all 1700ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_K2 {
     transform-origin: right top;
-    transition: all 1800ms $ai-afzal-imdad-svg-transition;
+    transition: all 1800ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_K3 {
     transform-origin: left top;
-    transition: all 1900ms $ai-afzal-imdad-svg-transition;
+    transition: all 1900ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_H {
     transform-origin: left bottom;
-    transition: all 1000ms $ai-afzal-imdad-svg-transition;
+    transition: all 1000ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_A {
     transform-origin: center bottom;
-    transition: all 1100ms $ai-afzal-imdad-svg-transition;
+    transition: all 1100ms $ai-gensi-collin-svg-transition;
   }
   .ai_svg_N2 {
     transform-origin: right bottom;
-    transition: all 1200ms $ai-afzal-imdad-svg-transition;
+    transition: all 1200ms $ai-gensi-collin-svg-transition;
   }
 
   svg {
@@ -94,11 +94,11 @@ $ai-afzal-imdad-svg-transition: cubic-bezier(0.82, 0.01, 1, 0.11);
   }
 }
 
-.ai-afzal-imdad-visible {
+.ai-gensi-collin-visible {
   // height: 100vw;
   // transform: scale(1);
 
-  .ai-afzal-imdad-parallax {
+  .ai-gensi-collin-parallax {
     transform: scale(1);
     // transition: all 1s linear;
   }

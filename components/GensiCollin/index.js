@@ -1,28 +1,28 @@
 import { useEffect, useRef, useState } from "react";
-import A from "./afzalImdadSVGs/A";
-import B from "./afzalImdadSVGs/B";
-import E1 from "./afzalImdadSVGs/E1";
-import E2 from "./afzalImdadSVGs/E2";
-import H from "./afzalImdadSVGs/H";
-import K1 from "./afzalImdadSVGs/K1";
-import K2 from "./afzalImdadSVGs/K2";
-import K3 from "./afzalImdadSVGs/K3";
-import M from "./afzalImdadSVGs/M";
-import N from "./afzalImdadSVGs/N";
-import N2 from "./afzalImdadSVGs/N2";
-import U from "./afzalImdadSVGs/U";
+import A from "./gensiCollinSVGs/A";
+import B from "./gensiCollinSVGs/B";
+import E1 from "./gensiCollinSVGs/E1";
+import E2 from "./gensiCollinSVGs/E2";
+import H from "./gensiCollinSVGs/H";
+import K1 from "./gensiCollinSVGs/K1";
+import K2 from "./gensiCollinSVGs/K2";
+import K3 from "./gensiCollinSVGs/K3";
+import M from "./gensiCollinSVGs/M";
+import N from "./gensiCollinSVGs/N";
+import N2 from "./gensiCollinSVGs/N2";
+import U from "./gensiCollinSVGs/U";
 
 const SvgWrapper = ({ SVG, className, ...rest }) => (
   <div
     {...rest}
-    className={`ai-afzal-imdad-parallax ${className}`}
+    className={`ai-gensi-collin-parallax ${className}`}
   >
     <SVG />
   </div>
 )
 
 
-export default function AfzalImdad({ }) {
+export default function GensiCollin({ }) {
   const ref = useRef()
 
   const [mount, handleMount] = useState(false);
@@ -42,7 +42,7 @@ export default function AfzalImdad({ }) {
   }
 
   return (
-    <div ref={ref} className={`ai-afzal-imdad ${mount ? 'ai-afzal-imdad-visible' : ''}`}>
+    <div ref={ref} className={`ai-gensi-collin ${mount ? 'ai-gensi-collin-visible' : ''}`}>
       <SvgWrapper
         className="ai_svg_M"
         SVG={M}
