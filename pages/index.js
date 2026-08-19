@@ -13,7 +13,6 @@ import Works from "../views/Works";
 import { contact, graphics, header, mapsContribution, mySelf, outer, projects, reviews, works } from "../utils";
 import sideElements from "../utils/sideElements";
 import Cursor from "../components/Cursor";
-import PreLoader from "../components/PreLoader";
 import Certifications from "../views/Certifications";
 import certifications from "../utils/certifications";
 import WaterMark from "../components/WaterMark";
@@ -25,8 +24,6 @@ const ViewElement = ({ children, id }) => (
 export default function Home() {
   return (
     <>
-      <PreLoader />
-
       <Cursor />
       <ParallaxProvider>
 
