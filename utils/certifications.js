@@ -8,7 +8,7 @@ const certifications = {
             title: 'CompTIA Security+',
             platform: 'CompTIA',
             link: '',
-            date: 'Issued 2024 · No Expiration Date',
+            date: 'Issued 2026 · Expires 2029',
             logo: '/assets/aws.png',
             aos: 'zoom-out-left'
         },
