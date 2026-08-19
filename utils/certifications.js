@@ -17,7 +17,7 @@ const certifications = {
             title: 'Certified in Cybersecurity (CC)',
             platform: 'ISC2',
             link: '',
-            date: 'Issued 2024 · No Expiration Date',
+            date: 'Issued 2026 · Expires 2029',
             logo: '/assets/cc.png',
             aos: 'zoom-out-right'
         },
