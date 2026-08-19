@@ -5,47 +5,65 @@ const certifications = {
     list: [
         {
             size: 1,
-            title: 'DevOps on AWS Specialization',
-            platform: 'Coursera',
+            title: 'CompTIA Security+',
+            platform: 'CompTIA',
             link: '',
-            date: 'Issued Sep 2022 · No Expiration Date',
+            date: 'Issued 2024 · No Expiration Date',
             logo: '/assets/aws.png',
             aos: 'zoom-out-left'
         },
         {
             size: 1,
-            title: 'Docker for absolute beginners',
-            platform: 'Coursera',
+            title: 'Certified in Cybersecurity (CC)',
+            platform: 'ISC2',
             link: '',
-            date: 'Issued Sep 2022 · No Expiration Date',
+            date: 'Issued 2024 · No Expiration Date',
             logo: '/assets/docker.png',
             aos: 'zoom-out-right'
         },
         {
             size: 1,
-            title: 'AWS Cloud Technical Essentials',
-            platform: 'Coursera',
+            title: 'Certified Cyber Security Analyst',
+            platform: 'Cyber Security Training',
             link: '',
-            date: 'Issued Aug 2022 · No Expiration Date',
+            date: 'Issued 2024 · No Expiration Date',
             logo: '/assets/aws.png',
             aos: 'zoom-out-left'
         },
         {
             size: 1,
-            title: 'Certified Mobile and Web App Developer',
-            platform: 'SMIT | Saylani Mass IT Training',
+            title: 'CISA Certificate Training',
+            platform: 'Udemy',
             link: '',
-            date: 'Issued Feb 2019 · No Expiration DateIssued',
+            date: 'Issued 2024 · No Expiration Date',
             logo: '/assets/smit.png',
             aos: 'zoom-out-right'
         },
         {
-            size: 2,
-            title: 'Hackathon on creating OLX App using PWA Development',
-            platform: 'SMIT | Saylani Mass IT Training',
+            size: 1,
+            title: 'CCNA: Introduction to Networks',
+            platform: 'Cisco',
             link: '',
-            date: 'Issued Jul 2018 · No Expiration Date',
+            date: 'Issued 2024 · No Expiration Date',
             logo: '/assets/smit.png',
+            aos: 'zoom-out-left'
+        },
+        {
+            size: 1,
+            title: 'AI Security and Governance',
+            platform: 'Security Training',
+            link: '',
+            date: 'Issued 2024 · No Expiration Date',
+            logo: '/assets/aws.png',
+            aos: 'zoom-out-right'
+        },
+        {
+            size: 1,
+            title: 'API Security for PCI Compliance',
+            platform: 'Security Training',
+            link: '',
+            date: 'Issued 2024 · No Expiration Date',
+            logo: '/assets/docker.png',
             aos: 'zoom-out-left'
         },
     ],

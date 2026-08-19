@@ -4,54 +4,61 @@ const projects = {
         {
             image: '/assets/projects/PIAIC.png',
             label: 'Featured Project',
-            title: 'PIAIC Web/Portal',
-            description: 'The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.',
+            title: 'Quiz Night Game Show Application',
+            description: 'A full-featured quiz night game show application built with Next.js 14, featuring multi-team support, manual scoring, animated hourglass timer, live scoreboard, finale screen, and admin panel with trivia question bank.',
             techs: [
-                'React Js',
-                'Express Js',
-                'Mongodb',
+                'Next.js 14',
+                'TypeScript',
+                'Tailwind CSS',
+                'Framer Motion',
+                'Web Audio API',
             ]
         },
         {
             image: '/assets/projects/digitalplattform.png',
             label: 'Featured Project',
-            title: 'Digital Plattform',
-            description: 'A Platform that offers everything from marketing strategy and solving technical challenges to content creation for social media',
+            title: 'Apartment Management System',
+            description: 'An apartment management system designed with separate admin and tenant interfaces, handling rent payment notifications, confirmation receipts, tenant requests for laundry/cleanup services, and structured mapping of tenants to specific housing units.',
             techs: [
                 'React Js',
-                'Express Js',
-                'GraphQl/Apollo',
-                'Mongodb',
+                'Next.js',
+                'TypeScript',
+                'Database',
             ]
         },
         {
             image: '/assets/projects/declinica.png',
             label: 'Featured Project',
-            title: 'Declinica',
-            description: 'A Decentralised blockchain Designed for the medical community.',
+            title: 'Car Rental Management System',
+            description: 'Developed using the Yii2 framework to support vehicle booking and operational processes, with integrated security features for vulnerability assessment and penetration testing.',
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Yii2 Framework',
+                'PHP',
+                'MySQL',
+                'Security Testing',
             ]
         },
         {
             image: '/assets/projects/rolazdoro.png',
             label: 'Featured Project',
-            title: `Rolaz D'oro`,
-            description: `One of the main objective of Rolaz D'ORO is to make gold easily accessible to even small investors in a trusted and secure environment, with the peace of mind that their investments are traceable and could be claimed at any stated time.`,
+            title: 'Company Blog Platform',
+            description: 'Developed and maintained the company blog platform to enhance online visibility and engagement, using React with clean coding practices and modular design principles.',
             techs: [
                 'React Js',
-                'Web3 Js',
+                'JavaScript',
+                'Clean Architecture',
             ]
         },
         {
             image: '/assets/projects/chainracers.png',
             label: 'Featured Project',
-            title: `Chainracers`,
-            description: `ChainRacers is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
+            title: `Security Assessment Tools`,
+            description: `Developed custom security assessment tools and utilities for vulnerability scanning, penetration testing support, and security monitoring using industry-standard tools like Burp Suite, Metasploit, and Nmap.`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Python',
+                'Security Tools',
+                'Burp Suite',
+                'Metasploit',
             ]
         }
     ]

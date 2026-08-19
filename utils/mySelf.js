@@ -2,40 +2,36 @@ const mySelf = {
     heading: 'My Portfolio',
     paragraphs: [
         `
-        Hello! My name is Gensi Collin Ikiriza, I like creating new things for internet. From a younger age, I have been interested in programming, as a kid most of my time I've spent in inspect element playing with colors and codes generating loops for sending infinite messages, cracking locked screen overflows and many more. so finally at the age of 16 I decided to convert this passion into career.`,
+        Hello! My name is Gensi Collin Ikiriza, I'm a Cyber Security professional based in Kampala, Uganda, with hands-on experience supporting governance, risk, compliance, information security assurance, and control assessment activities within the banking and technology sectors.`,
         `
-        It is a way to become more crafty with my ideas and explore the endless possibilities in the world of programming.`,
+        I currently work as a Cyber Security Assurance Analyst at Centenary Bank, where I support Information Security Assurance activities aimed at safeguarding the confidentiality, integrity, and availability of banking systems and information assets.`,
         `
-        Besides, Programming I'm a passionate photographer and a traveller.
-        A First Pakistani who actually covered most of the 360 google street view of city Karachi with heighest GSV contribution in all over Pakistan it helped more than 42 Million people till now.`,
+        My journey began with a strong foundation in offensive and applied security through internships at Digitanotion Limited in Nigeria, where I conducted vulnerability assessments and penetration testing using industry-standard tools like Burp Suite and Metasploit.`,
         `
-        Coming back to Programming over the time I've delivered projects to many happy cients over globe and it gave me experience for working with many different people of different culture.
-        From local software house to Fiverr, Fiverr to Upwork and gradually towards international companies.`,
+        I also have meaningful software development experience that bridges my security expertise with hands-on engineering work, having developed systems using Yii2 framework and React at Service Cops Uganda and Tubayo respectively.`,
         `
-        I am extremely observant when it comes to the breakdown of certain things. As being a crafty person I mostly endup solving too complex issues in less time.
-        `,
+        Academically, I hold a Bachelor's degree in Computer Science with Honors from Uganda Christian University, backed by industry certifications including CompTIA Security+, Certified in Cybersecurity (CC) from ISC2, and various other security qualifications.`,
         `
-        To test my skills to the fullest would be an amazing experience, an environment where I would learn more and polish my skills more further would be an ideal one for me. Because I believe that there is always room to learn something new and to say no to a new opportunity would not be wise at all.
-        Feel free to communicate.`,
+        I'm passionate about building personal and freelance projects that showcase my development versatility, including full-featured applications built with Next.js, TypeScript, and modern web technologies. Feel free to communicate.`,
         `
         Over the time I've specialized in many technologies some of them are...
         `,
     ],
     techList1: [
-        'JavaScript/TypeScript',
-        'React.js/Native',
-        'Express.js',
-        'Node.js',
-        'Firestore',
-        'MongoDB'
+        'Cyber Security',
+        'Penetration Testing',
+        'Governance Risk Compliance',
+        'Vulnerability Assessment',
+        'IT Risk Assessment',
+        'Security Monitoring',
     ],
     techList2: [
-        'Web3.js',
-        'Solidity',
-        'Ionic',
-        'Cordova',
-        'PWA/SPA',
-        'AWS',
+        'Next.js/React',
+        'TypeScript',
+        'Yii2 Framework',
+        'Burp Suite',
+        'Metasploit',
+        'Network Security',
     ],
     image: '/assets/profile.jpg',
 }

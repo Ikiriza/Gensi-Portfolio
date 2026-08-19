@@ -4,14 +4,14 @@ const outer = {
     title1:  `G'day, I'm`,
     title2: 'Gensi Collin Ikiriza,',
     decrypTexts: [
-        'A Software Engineer',
-        'A Full Stack Developer',
-        'I build things for the web',
-        'A Graphic Designer',
-        'A Web3 Developer',
-        'A Traveler',
+        'A Cyber Security Professional',
+        'Security Assurance Analyst',
+        'Penetration Testing Expert',
+        'Software Developer',
+        'Risk Assessment Specialist',
+        'Compliance Analyst',
     ],
-    desciption: `A dedicated and disciplined Full Stack engineer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe.`,
+    desciption: `A dedicated Cyber Security professional based in Kampala, Uganda, with hands-on experience in governance, risk, compliance, information security assurance, and control assessment within banking and technology sectors.`,
     button: {
         label: 'Contact me!',
         onClick: () => openLink('mailto:collingensi5@gmail.com?subject=Hello')
