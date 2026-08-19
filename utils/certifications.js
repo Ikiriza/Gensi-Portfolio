@@ -18,7 +18,7 @@ const certifications = {
             platform: 'ISC2',
             link: '',
             date: 'Issued 2024 · No Expiration Date',
-            logo: '/assets/docker.png',
+            logo: '/assets/cc.png',
             aos: 'zoom-out-right'
         },
         {
@@ -45,7 +45,7 @@ const certifications = {
             platform: 'Cisco',
             link: '',
             date: 'Issued 2024 · No Expiration Date',
-            logo: '/assets/smit.png',
+            logo: '/assets/ccna.png',
             aos: 'zoom-out-left'
         },
         {
@@ -54,7 +54,7 @@ const certifications = {
             platform: 'Security Training',
             link: '',
             date: 'Issued 2024 · No Expiration Date',
-            logo: '/assets/aws.png',
+            logo: '/assets/Ai.png',
             aos: 'zoom-out-right'
         },
         {
@@ -63,7 +63,7 @@ const certifications = {
             platform: 'Security Training',
             link: '',
             date: 'Issued 2024 · No Expiration Date',
-            logo: '/assets/docker.png',
+            logo: '/assets/api-security.png',
             aos: 'zoom-out-left'
         },
     ],
