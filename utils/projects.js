@@ -26,18 +26,7 @@ const projects = {
                 'Database',
             ]
         },
-        {
-            image: '/assets/projects/declinica.png',
-            label: 'Featured Project',
-            title: 'Car Rental Management System',
-            description: 'Developed using the Yii2 framework to support vehicle booking and operational processes, with integrated security features for vulnerability assessment and penetration testing.',
-            techs: [
-                'Yii2 Framework',
-                'PHP',
-                'MySQL',
-                'Security Testing',
-            ]
-        },
+
         {
             image: '/assets/projects/rolazdoro.png',
             label: 'Featured Project',
@@ -49,18 +38,7 @@ const projects = {
                 'Clean Architecture',
             ]
         },
-        {
-            image: '/assets/projects/chainracers.png',
-            label: 'Featured Project',
-            title: `Security Assessment Tools`,
-            description: `Developed custom security assessment tools and utilities for vulnerability scanning, penetration testing support, and security monitoring using industry-standard tools like Burp Suite, Metasploit, and Nmap.`,
-            techs: [
-                'Python',
-                'Security Tools',
-                'Burp Suite',
-                'Metasploit',
-            ]
-        }
+
     ]
 }
 

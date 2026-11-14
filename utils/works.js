@@ -46,13 +46,12 @@ const works = {
                     role: 'Software Development Intern',
                     duration: 'Onsite | September 2024 - December 2024',
                     points: [
-                        `Developed a comprehensive Car Rental Management System using the Yii2 PHP framework to support vehicle booking, fleet management, and operational processes.`,
                         "Conducted proactive vulnerability assessment and penetration testing activities to evaluate the application's security posture and identify potential security weaknesses.",
-                        'Identified and documented security vulnerabilities in the rental management system, recommending specific mitigation measures to strengthen application security and protect sensitive data.',
-                        'Managed database management activities including schema design, query optimization, and data integrity checks for the rental system backend.',
-                        'Implemented backend application development using PHP and Yii2, building business logic for booking workflows, customer management, and fleet operations.',
+                        'Identified and documented security vulnerabilities in applications, recommending specific mitigation measures to strengthen application security and protect sensitive data.',
+                        'Managed database management activities including schema design, query optimization, and data integrity checks for backend systems.',
+                        'Implemented backend application development using PHP and Yii2, building business logic for various workflows and operational processes.',
                         'Collaborated with development teams to integrate security best practices into the software development lifecycle, following secure coding principles.',
-                        'Performed system testing, debugging, and performance optimization to ensure the rental management system met operational requirements and user expectations.',
+                        'Performed system testing, debugging, and performance optimization to ensure applications met operational requirements and user expectations.',
                         'Acquired valuable experience bridging software development with security assessment, understanding how to build secure applications from the ground up.'
                     ],
                 }

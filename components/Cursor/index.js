@@ -34,10 +34,10 @@ function Cursor() {
         <div className='ai-cursor-line-bottom-1' />
       </div>
       <AnimatedCursor
-        innerSize={4}
-        outerSize={28}
+        innerSize={8}
+        outerSize={32}
         outerAlpha={0}
-        innerScale={4}
+        innerScale={1.2}
         outerScale={0}
         clickables={[
           'a',
@@ -57,7 +57,9 @@ function Cursor() {
           border: '1px solid var(--themeColor4)',
         }}
         innerStyle={{
-          backgroundColor: 'var(--themeColor4)'
+          backgroundColor: 'var(--themeColor4)',
+          borderRadius: '0 50% 50% 50%',
+          transform: 'rotate(-45deg)'
         }}
       />
     </div>

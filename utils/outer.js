@@ -5,10 +5,9 @@ const outer = {
     title2: 'Gensi Collin Ikiriza,',
     decrypTexts: [
         'A Cyber Security Professional',
-        'Security Assurance Analyst',
         'Penetration Testing Expert',
-        'Software Developer',
-        'Risk Assessment Specialist',
+        'Software Engineer',
+        'Cyber Security Architect',
         'Compliance Analyst',
     ],
     desciption: `A dedicated Cyber Security professional based in Kampala, Uganda, with hands-on experience in governance, risk, compliance, information security assurance, and control assessment within banking and technology sectors.`,
